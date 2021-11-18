@@ -48,7 +48,7 @@ namespace Task17
         }
 
 
-        public T Number()
+        public T GetNumber()
         {
             return number;
         }
