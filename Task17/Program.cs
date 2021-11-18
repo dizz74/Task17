@@ -6,7 +6,7 @@ namespace Task17
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("БАНК");
             Account<long> account1 = new Account<long>();
             account1.SetOwner("Иванов ИИ");
             account1.SetNumber(429043432423);
